@@ -1,5 +1,3 @@
-# Algorithms-AI2
-
 # AI Algorithms in Python
 
 This repository contains Python implementations of various AI algorithms, including WalkSAT, GSAT, WalkSAT with heuristic, and GSAT with random walk.
