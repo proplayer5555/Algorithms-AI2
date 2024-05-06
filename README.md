@@ -44,19 +44,13 @@ To use the algorithms implemented in this repository, follow these steps:
     git clone https://github.com/proplayer5555/Algorithms-AI2.git
     ```
 
-2. Navigate to the directory containing the algorithms:
-
-    ```bash
-    cd ai-algorithms-python
-    ```
-
-3. Choose the algorithm you want to use and run the corresponding Python file:
+2. Choose the algorithm you want to use and run the corresponding Python file:
 
     ```bash
     python walksat.py
     ```
 
-4. Follow the prompts or customize the input parameters as needed for your specific problem.
+3. Follow the prompts or customize the input parameters as needed for your specific problem.
 
 ## Contributing
 
